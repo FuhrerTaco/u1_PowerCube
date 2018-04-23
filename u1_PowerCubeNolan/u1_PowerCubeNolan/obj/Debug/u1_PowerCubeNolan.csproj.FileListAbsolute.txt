@@ -1,0 +1,15 @@
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\bin\Debug\u1_PowerCubeNolan.exe.config
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\bin\Debug\u1_PowerCubeNolan.exe
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\bin\Debug\u1_PowerCubeNolan.pdb
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.csprojResolveAssemblyReference.cache
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\MainWindow.g.cs
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\App.g.cs
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan_MarkupCompile.cache
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan_MarkupCompile.lref
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\MainWindow.baml
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.g.resources
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.Properties.Resources.resources
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.csproj.GenerateResource.Cache
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.exe
+C:\Users\nolan\source\repos\u1_PowerCubeNolan\u1_PowerCubeNolan\obj\Debug\u1_PowerCubeNolan.pdb
